@@ -1,10 +1,6 @@
 # demo-hacktoberfest22
 my first repo
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 ```
 {
